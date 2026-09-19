@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/shaikbasha-dev">
+<a href="https://github.com/smbashadev">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -268,7 +268,7 @@ Completed a hands-on internship focused on Java Full Stack Development and Manua
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/shaikbasha-dev">
+<a href="https://github.com/smbashadev">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
