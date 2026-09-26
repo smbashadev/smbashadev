@@ -81,50 +81,109 @@ Currently, I am seeking an opportunity as a Java Full Stack Developer where I ca
 
 ## Core Expertise
 
+<table>
+<tr>
+<td valign="top" width="33%" style="border: 1px solid #444;">
+
 ### Programming Languages
 
-* Java
-* Python
+Java
+
+Python
+
+</td>
+
+<td valign="top" width="34%" style="border: 1px solid #444;">
 
 ### Frontend Technologies
 
-* HTML5
-* CSS3
-* JavaScript
-* Angular
+HTML5
 
-### Backend Technologies
+CSS3
 
-* JDBC
+JavaScript
 
-### Database Technologies
+Angular
 
-* Oracle SQL
-* MySQL
+</td>
+
+<td valign="top" width="33%" style="border: 1px solid #444;">
 
 ### Core Java Concepts
 
-* Object-Oriented Programming (OOP)
-* Exception Handling
-* Multithreading
-* Java Collections Framework
+Object-Oriented Programming (OOP)
+
+Exception Handling
+
+Multithreading
+
+Java Collections Framework
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" style="border: 1px solid #444;">
+
+### Backend Technologies
+
+JDBC
+
+</td>
+
+<td valign="top" style="border: 1px solid #444;">
+
+### Database Technologies
+
+Oracle SQL
+
+MySQL
+
+</td>
+
+<td valign="top" style="border: 1px solid #444;">
 
 ### Software Testing
 
-* Manual Testing
-* SDLC
-* STLC
+Manual Testing
+
+SDLC
+
+STLC
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" style="border: 1px solid #444;">
 
 ### Version Control
 
-* Git
-* GitHub
+Git
+
+GitHub
+
+</td>
+
+<td valign="top" style="border: 1px solid #444;">
 
 ### Development Tools
 
-* Eclipse IDE
-* IntelliJ IDEA
-* Visual Studio Code
+Eclipse IDE
+
+IntelliJ IDEA
+
+Visual Studio Code
+
+</td>
+
+<td valign="top" style="border: 1px solid #444;">
+
+&nbsp;
+
+</td>
+</tr>
+</table>
 
 ---
 
