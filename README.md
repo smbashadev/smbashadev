@@ -282,6 +282,7 @@ The following certifications demonstrate continuous learning across Java, Web De
 
 | Certification Name                                              | Technology       | View                                                                                                                                                                            | Organization        |
 | --------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Java (Basic) Certification                                      | Java             | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/java_basic%20certificate.pdf)                                                             | HackerRank          |
 | Programming using Java                                          | Java             | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/Programming_using_Java_Infosys_Springboard.pdf)                                          | Infosys Springboard |
 | Getting Started with Java: The Fundamentals of Java Programming | Java             | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf) | Infosys Springboard |
 | HTML5 – The Language                                            | HTML5            | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/HTML5-The-Language-Infosys-Springboard-2026.pdf)                                         | Infosys Springboard |
@@ -294,7 +295,6 @@ The following certifications demonstrate continuous learning across Java, Web De
 | SQL and Relational Databases                                    | SQL              | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/SQL_and_Relational_Databases_IBM.pdf)                                                    | IBM                 |
 | Front End Development – HTML                                    | HTML5            | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/Front_End_Development_HTML_GreatLearning.pdf)                                            | Great Learning      |
 | Front End Development – CSS                                     | CSS3             | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/Front_End_Development_CSS_GreatLearning.pdf)                                             | Great Learning      |
-
 ---
 
 ## Digital Badges
