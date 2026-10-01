@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Shaik Mahaboob Basha
+<h1><p align="center"> 👋 Hi, I'm Shaik Mahaboob Basha </p></h1>
 
-### Trained and Interned in Java Full Stack Development
+<h2><p align="center"> Trained and Interned in Java Full Stack Development </p></h2>
 
-<p align="center">
+
+
+<p align="center"><b>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Development;Java+%7C+JDBC+%7C+Oracle+SQL;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Angular;Python+%7C+Manual+Testing;Open+Source+Learner;Open+to+Work" alt="Typing SVG" />
-</p>
+</b></p>
 
 <p align="center">
   <a href="https://smbashadev.github.io/Developer-Portfolio-Project/">
